@@ -1,2 +1,2 @@
-# Spring-Boot-With-Security
+# Spring-Boot-Security-Demo
 HTTP Basic Authenatication
