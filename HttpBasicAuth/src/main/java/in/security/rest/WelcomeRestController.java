@@ -11,6 +11,6 @@ public class WelcomeRestController {
 		@GetMapping("/")
 		public String massege()
 		{
-			return "Welcome to Security app...";
+			return "Welcome to Security Application...";
 		}
 }
